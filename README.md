@@ -1,21 +1,29 @@
 ## 📚: Quantum Algorithm as a PDE Solver for Computational Fluid Dynamics (CFD)
 
-## 🛰️: Team NAme: Spooky Action Crew
+
+## 🛰️: Team Name:  Spooky Action Crew
 
 ## 💕:Team Information
   #🧠: Team Member 1: Kazim Mumtaz
 
    Email: kazimmumtaz43@gmail.com
+   
    GitHub ID: KazimMumtaz
+   
    Nationality: Pakistani
 
  # Team Memter 2👼: Huma Sabir
+ 
  Email: humasabir051@gmail.com
+ 
  GitHub ID: HumaSabir
+ 
  Nationality: Pakistani
 
  # Team Memter 3👬:Efe Celep
+ 
  Email: celepe@carleton.edu
+ 
  GitHub ID: kefec
  Nationality: Turkish 
 
