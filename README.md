@@ -4,7 +4,7 @@
 ## 🛰️: Team Name:  Spooky Action Crew
 
 ## 💕:Team Information
-  #🧠: Team Member 1: Kazim Mumtaz
+  #: Team Member 1🧠: Kazim Mumtaz
 
    Email: kazimmumtaz43@gmail.com
    
